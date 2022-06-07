@@ -2454,14 +2454,9 @@ var socials = [
         items: [
             {
                 label: "Official Channel",
-                href: "https://t.me/apemuuinuChat",
+                href: "https://t.me/",
             },
         ],
-    },
-    {
-        label: "Twitter",
-        icon: "TwitterIcon",
-        href: "https://twitter.com/apemuuinu",
     },
 ];
 var MENU_HEIGHT = 64;
